@@ -1,6 +1,7 @@
 .env
 데이터분석/Pandas/DataFrame/data
-머신러닝/2. 교차검증/datasets
-머신러닝/4. 다항회귀/data
+머신러닝/02. 교차검증/datasets
+머신러닝/04. 다항회귀/data
 *.mmap
-머신러닝/9. 실습/data
+머신러닝/09. 실습/data
+**/data/
