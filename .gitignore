@@ -5,3 +5,7 @@
 *.mmap
 머신러닝/실습/data
 **/data/
+run_experiment*
+setting*
+자연어
+자연어딥러닝/26-05-13-CNN/cc.ko.300.vec
